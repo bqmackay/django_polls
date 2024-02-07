@@ -6,7 +6,6 @@ asgiref==3.7.2
 attrs==23.2.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
-crewai==0.5.2
 dataclasses-json==0.6.4
 distro==1.9.0
 Django==5.0.1
